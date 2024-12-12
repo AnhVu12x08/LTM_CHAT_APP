@@ -1,0 +1,17 @@
+[
+  {
+    "sender": "C",
+    "receiver": "D",
+    "message": "C send to D "
+  },
+  {
+    "sender": "D",
+    "receiver": "C",
+    "message": "D send to C"
+  },
+  {
+    "sender": "D",
+    "receiver": "C",
+    "message": "hello C"
+  }
+]

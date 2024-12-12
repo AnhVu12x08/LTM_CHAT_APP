@@ -1,0 +1,70 @@
+E:\LTM\Chat-app\Communicator\bin\Debug\net6.0\Communicator.deps.json
+E:\LTM\Chat-app\Communicator\bin\Debug\net6.0\Communicator.dll
+E:\LTM\Chat-app\Communicator\bin\Debug\net6.0\Communicator.pdb
+E:\LTM\Chat-app\Communicator\obj\Debug\net6.0\Communicator.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTM\Chat-app\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfoInputs.cache
+E:\LTM\Chat-app\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfo.cs
+E:\LTM\Chat-app\Communicator\obj\Debug\net6.0\Communicator.csproj.CoreCompileInputs.cache
+E:\LTM\Chat-app\Communicator\obj\Debug\net6.0\Communicator.dll
+E:\LTM\Chat-app\Communicator\obj\Debug\net6.0\refint\Communicator.dll
+E:\LTM\Chat-app\Communicator\obj\Debug\net6.0\Communicator.pdb
+E:\LTM\Chat-app\Communicator\obj\Debug\net6.0\ref\Communicator.dll
+E:\LTM\Main\Communicator\bin\Debug\net6.0\Communicator.deps.json
+E:\LTM\Main\Communicator\bin\Debug\net6.0\Communicator.dll
+E:\LTM\Main\Communicator\bin\Debug\net6.0\Communicator.pdb
+E:\LTM\Main\Communicator\obj\Debug\net6.0\Communicator.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTM\Main\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfoInputs.cache
+E:\LTM\Main\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfo.cs
+E:\LTM\Main\Communicator\obj\Debug\net6.0\Communicator.csproj.CoreCompileInputs.cache
+E:\LTM\Main\Communicator\obj\Debug\net6.0\Communicator.dll
+E:\LTM\Main\Communicator\obj\Debug\net6.0\refint\Communicator.dll
+E:\LTM\Main\Communicator\obj\Debug\net6.0\Communicator.pdb
+E:\LTM\Main\Communicator\obj\Debug\net6.0\ref\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\bin\Debug\net6.0\Communicator.deps.json
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\bin\Debug\net6.0\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\bin\Debug\net6.0\Communicator.pdb
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\obj\Debug\net6.0\refint\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.pdb
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\obj\Debug\net6.0\ref\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.sourcelink.json
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\bin\Debug\net6.0\Communicator.deps.json
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\bin\Debug\net6.0\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\bin\Debug\net6.0\Communicator.pdb
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.sourcelink.json
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\obj\Debug\net6.0\refint\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.pdb
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\new1\LTM_GR-ASM\Communicator\obj\Debug\net6.0\ref\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\bin\Debug\net6.0\Communicator.deps.json
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\bin\Debug\net6.0\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\bin\Debug\net6.0\Communicator.pdb
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.sourcelink.json
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\obj\Debug\net6.0\refint\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\obj\Debug\net6.0\Communicator.pdb
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\612night\LTM_GR-ASM\Communicator\obj\Debug\net6.0\ref\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\bin\Debug\net6.0\Communicator.deps.json
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\bin\Debug\net6.0\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\bin\Debug\net6.0\Communicator.pdb
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\obj\Debug\net6.0\Communicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\obj\Debug\net6.0\Communicator.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\obj\Debug\net6.0\Communicator.sourcelink.json
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\obj\Debug\net6.0\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\obj\Debug\net6.0\refint\Communicator.dll
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\obj\Debug\net6.0\Communicator.pdb
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\LTM\newest\Communicator\obj\Debug\net6.0\ref\Communicator.dll
